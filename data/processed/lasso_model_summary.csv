@@ -1,0 +1,7 @@
+Metric,Value
+CV-selected alpha,0.00047470470708376773
+Predictors tested,18.0
+Predictors selected at optimal alpha,0.0
+Test RMSE,0.004296789525827622
+Test MAE,0.0033775059356895634
+Test R²,-0.025420792873960263

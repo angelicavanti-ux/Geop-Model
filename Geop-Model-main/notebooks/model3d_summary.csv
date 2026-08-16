@@ -1,0 +1,2 @@
+model,geopolitical_spec,n_obs,n_test,any_lag_converged,converged_lags,selected_lag,selected_lag_aic,selected_lag_bic,selected_lag_hqic,eurusd_rmse,eurusd_mae,eurusd_rmse_vs_naive,final_model_converged,trade_p_eurusd,sanctions_p_eurusd,fed_p_eurusd,trade_p_epu,sanctions_p_epu,fed_p_epu
+3d,SUM_MA5,992,20,False,None,3,2557.25062574639,2688.993232466822,2607.390976528785,0.0105,0.0091,3.045,True,0.6490974735837833,0.6378053973411261,0.3986942910249286,0.05345058055712288,0.6278658790228946,0.3658134201718751

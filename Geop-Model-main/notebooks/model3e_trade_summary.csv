@@ -1,0 +1,2 @@
+model,geopolitical_spec,n_obs,n_test,any_lag_converged,converged_lags,selected_lag,selected_lag_aic,selected_lag_bic,selected_lag_hqic,eurusd_rmse,eurusd_mae,eurusd_rmse_vs_naive,final_model_converged,trade_p_eurusd,sanctions_p_eurusd,fed_p_eurusd,trade_p_epu,sanctions_p_epu,fed_p_epu
+3e_trade,MA10_TRADE_ONLY,993,20,True,2,2,2595.084177222575,2687.811474784109,2630.3738073214495,0.0087,0.0075,2.5388,True,0.1482764402757262,,,0.629632116750446,,
