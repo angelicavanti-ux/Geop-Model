@@ -1,0 +1,10 @@
+feature,coefficient,abs_coefficient,source,geopolitical_index,representation
+fed_pressure_mean_ma10,-1.1579982475384026e-05,1.1579982475384026e-05,Geopolitical,Fed Pressure,MA10
+sanctions_sum_ma10,-1.1523050753606982e-05,1.1523050753606982e-05,Geopolitical,Sanctions,MA10
+sanctions_max_ma10,-1.0438107478370932e-05,1.0438107478370932e-05,Geopolitical,Sanctions,MA10
+sanctions_mean_ma10,-1.0337575945593964e-05,1.0337575945593964e-05,Geopolitical,Sanctions,MA10
+fed_pressure_sum_ma10,-9.336955502381964e-06,9.336955502381964e-06,Geopolitical,Fed Pressure,MA10
+fed_pressure_max_ma10,-9.288758084644048e-06,9.288758084644048e-06,Geopolitical,Fed Pressure,MA10
+trade_max_ma10,-4.739568285708592e-06,4.739568285708592e-06,Geopolitical,Trade,MA10
+trade_mean_ma10,-4.7080880717242355e-06,4.7080880717242355e-06,Geopolitical,Trade,MA10
+trade_sum_ma10,-3.9219811231274235e-06,3.9219811231274235e-06,Geopolitical,Trade,MA10

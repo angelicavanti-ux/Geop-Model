@@ -1,0 +1,3 @@
+model,best_alpha,best_l1_ratio,cv_mse,n_candidate_features,n_selected_features,top_geopolitical_representation
+DeepSeek_ElasticNet,0.0008497534359086438,0.99,1.57711241805162e-05,124,0,MA10
+Gemma_ElasticNet,0.0008497534359086438,0.95,1.57711241805162e-05,124,0,MA10

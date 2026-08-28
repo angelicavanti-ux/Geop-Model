@@ -1,0 +1,4 @@
+Method,DeepSeek candidate features,DeepSeek selected/nonzero,Gemma candidate features,Gemma selected/nonzero
+LASSO,124,0,124,0
+Ridge,124,124,124,124
+Elastic Net,124,0,124,0

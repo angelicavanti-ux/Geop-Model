@@ -1,0 +1,4 @@
+Method,CV-optimal result,OOS result,Geopolitical representation evidence,LLM consistency
+LASSO,0 / 124 non-zero predictors,Matches mean benchmark,Restricted paths: MA10 Sanctions and Fed Pressure among most persistent,Similar result for DeepSeek and Gemma
+Ridge,124 / 124 retained and shrunk,Underperforms naive benchmarks,Full candidate set: MA10 highest mean absolute coefficient,MA10 top representation for both
+Elastic Net,0 / 124 non-zero predictors,Matches mean benchmark,Full candidate set: MA10 highest mean survival,MA10 top representation for both

@@ -1,0 +1,125 @@
+feature,max_alpha_nonzero,source,geopolitical_index,representation
+VIXCLS_lag2,0.0004328761281083057,Macro,,Lag
+DGS2_diff,0.0004037017258596554,Macro,,Difference
+USEPUINDXD_lag2,0.00037649358067924675,Macro,,Lag
+VIXCLS_diff,0.0003511191734215131,Macro,,Difference
+sanctions_mean_lag2,0.0003511191734215131,Geopolitical,Sanctions,Lag
+trade_mean_diff,0.00032745491628777284,Geopolitical,Trade,Difference
+fed_pressure_mean_ma10,0.00032745491628777284,Geopolitical,Fed Pressure,MA10
+VIXCLS_diff_lag2,0.00032745491628777284,Macro,,Difference
+sanctions_max_ma10,0.0002848035868435802,Geopolitical,Sanctions,MA10
+DGS2_diff_lag5,0.00026560877829466864,Macro,,Difference
+DGS2_diff_lag1,0.0002477076355991711,Macro,,Difference
+VIXCLS_diff_lag1,0.0002477076355991711,Macro,,Difference
+trade_mean_lag1,0.00023101297000831605,Geopolitical,Trade,Lag
+VIXCLS_diff_lag3,0.00020092330025650479,Macro,,Difference
+DGS2,0.0001873817422860385,Macro,,Other
+trade_sum_lag3,0.0001873817422860385,Geopolitical,Trade,Lag
+DEXUSEU_logreturn_lag3,0.0001629750834620645,EURUSD,,Lag
+DGS2_diff_lag3,0.00014174741629268049,Macro,,Difference
+VIXCLS_ma10,0.00014174741629268049,Macro,,MA10
+USEPUINDXD_diff,0.00013219411484660288,Macro,,Difference
+trade_sum_ma10,0.0001232846739442066,Geopolitical,Trade,MA10
+fed_pressure_mean_lag2,0.0001232846739442066,Geopolitical,Fed Pressure,Lag
+USEPUINDXD_diff_lag5,0.0001232846739442066,Macro,,Difference
+DEXUSEU_logreturn_lag2,0.0001232846739442066,EURUSD,,Lag
+VIXCLS_diff_lag5,0.00011497569953977356,Macro,,Difference
+DEXUSEU_logreturn_lag5,0.00011497569953977356,EURUSD,,Lag
+fed_pressure_mean_lag3,0.00011497569953977356,Geopolitical,Fed Pressure,Lag
+sanctions_sum_diff,0.00011497569953977356,Geopolitical,Sanctions,Difference
+DEXUSEU_logreturn_lag1,0.00010722672220103231,EURUSD,,Lag
+trade_mean_ma5,0.0001,Geopolitical,Trade,MA5
+fed_pressure_mean_lag1,9.326033468832199e-05,Geopolitical,Fed Pressure,Lag
+trade_sum_lag5,9.326033468832199e-05,Geopolitical,Trade,Lag
+sanctions_mean_lag3,9.326033468832199e-05,Geopolitical,Sanctions,Lag
+sanctions_mean,8.697490026177834e-05,Geopolitical,Sanctions,Mean
+trade_mean_lag5,8.697490026177834e-05,Geopolitical,Trade,Lag
+USEPUINDXD_diff_lag2,8.697490026177834e-05,Macro,,Difference
+sanctions_mean_diff,7.054802310718646e-05,Geopolitical,Sanctions,Difference
+fed_pressure_mean_lag5,7.054802310718646e-05,Geopolitical,Fed Pressure,Lag
+trade_mean_ma10,6.579332246575683e-05,Geopolitical,Trade,MA10
+sanctions_sum_lag2,6.135907273413175e-05,Geopolitical,Sanctions,Lag
+USEPUINDXD_diff_lag1,5.3366992312063123e-05,Macro,,Difference
+DGS2_diff_lag2,5.3366992312063123e-05,Macro,,Difference
+trade_mean_lag3,4.977023564332114e-05,Geopolitical,Trade,Lag
+trade_max_ma5,4.977023564332114e-05,Geopolitical,Trade,MA5
+trade_sum_diff,4.977023564332114e-05,Geopolitical,Trade,Difference
+sanctions_mean_lag5,4.977023564332114e-05,Geopolitical,Sanctions,Lag
+fed_pressure_max_ma5,4.641588833612782e-05,Geopolitical,Fed Pressure,MA5
+trade_max_ma10,4.328761281083062e-05,Geopolitical,Trade,MA10
+fed_pressure_max_diff,4.037017258596558e-05,Geopolitical,Fed Pressure,Difference
+trade_max_lag2,4.037017258596558e-05,Geopolitical,Trade,Lag
+VIXCLS_lag5,3.7649358067924715e-05,Macro,,Lag
+sanctions_max_lag5,3.511191734215127e-05,Geopolitical,Sanctions,Lag
+fed_pressure_mean_ma5,3.274549162877732e-05,Geopolitical,Fed Pressure,MA5
+sanctions_max_lag2,3.274549162877732e-05,Geopolitical,Sanctions,Lag
+trade_max,3.053855508833412e-05,Geopolitical,Trade,Max
+trade_max_lag3,3.053855508833412e-05,Geopolitical,Trade,Lag
+sanctions_sum,2.8480358684358048e-05,Geopolitical,Sanctions,Sum
+sanctions_max_diff,2.8480358684358048e-05,Geopolitical,Sanctions,Difference
+fed_pressure_sum_diff,2.656087782946684e-05,Geopolitical,Fed Pressure,Difference
+trade_mean,2.656087782946684e-05,Geopolitical,Trade,Mean
+fed_pressure_max_lag1,2.656087782946684e-05,Geopolitical,Fed Pressure,Lag
+USEPUINDXD_diff_lag3,2.656087782946684e-05,Macro,,Difference
+fed_pressure_mean,2.477076355991714e-05,Geopolitical,Fed Pressure,Mean
+trade_sum_lag2,2.477076355991714e-05,Geopolitical,Trade,Lag
+sanctions_sum_lag3,2.477076355991714e-05,Geopolitical,Sanctions,Lag
+trade_sum,2.477076355991714e-05,Geopolitical,Trade,Sum
+trade_max_lag1,2.1544346900318867e-05,Geopolitical,Trade,Lag
+sanctions_sum_lag5,2.0092330025650458e-05,Geopolitical,Sanctions,Lag
+sanctions_max_lag3,1.873817422860383e-05,Geopolitical,Sanctions,Lag
+fed_pressure_max_lag5,1.747528400007683e-05,Geopolitical,Fed Pressure,Lag
+sanctions_max_lag1,1.6297508346206434e-05,Geopolitical,Sanctions,Lag
+USEPUINDXD_ma10,1.5199110829529332e-05,Macro,,MA10
+fed_pressure_sum_lag1,1.5199110829529332e-05,Geopolitical,Fed Pressure,Lag
+fed_pressure_sum_lag5,1.5199110829529332e-05,Geopolitical,Fed Pressure,Lag
+trade_max_lag5,1.4174741629268048e-05,Geopolitical,Trade,Lag
+trade_max_ma3,1.2328467394420658e-05,Geopolitical,Trade,MA3
+VIXCLS_lag3,1.1497569953977357e-05,Macro,,Lag
+fed_pressure_sum_lag3,1.072267222010323e-05,Geopolitical,Fed Pressure,Lag
+fed_pressure_max,1.072267222010323e-05,Geopolitical,Fed Pressure,Max
+fed_pressure_max_ma3,1e-05,Geopolitical,Fed Pressure,MA3
+trade_mean_lag2,1e-05,Geopolitical,Trade,Lag
+USEPUINDXD,1e-05,Macro,,Other
+fed_pressure_sum_ma10,9.3260334688322e-06,Geopolitical,Fed Pressure,MA10
+trade_sum_ma5,9.3260334688322e-06,Geopolitical,Trade,MA5
+trade_sum_lag1,8.697490026177835e-06,Geopolitical,Trade,Lag
+fed_pressure_max_lag3,8.697490026177835e-06,Geopolitical,Fed Pressure,Lag
+fed_pressure_sum_ma5,8.111308307896873e-06,Geopolitical,Fed Pressure,MA5
+sanctions_mean_ma5,6.579332246575683e-06,Geopolitical,Sanctions,MA5
+DGS2_lag5,6.1359072734131755e-06,Macro,,Lag
+fed_pressure_mean_ma3,5.336699231206313e-06,Geopolitical,Fed Pressure,MA3
+sanctions_mean_ma10,5.336699231206313e-06,Geopolitical,Sanctions,MA10
+VIXCLS_lag1,5.336699231206313e-06,Macro,,Lag
+fed_pressure_max_ma10,4.328761281083061e-06,Geopolitical,Fed Pressure,MA10
+sanctions_max_ma5,4.037017258596558e-06,Geopolitical,Sanctions,MA5
+sanctions_sum_ma10,4.037017258596558e-06,Geopolitical,Sanctions,MA10
+fed_pressure_sum_lag2,3.5111917342151275e-06,Geopolitical,Fed Pressure,Lag
+DGS2_lag3,3.2745491628777315e-06,Macro,,Lag
+USEPUINDXD_lag5,3.0538555088334123e-06,Macro,,Lag
+sanctions_sum_ma5,2.848035868435805e-06,Geopolitical,Sanctions,MA5
+sanctions_max,1.873817422860383e-06,Geopolitical,Sanctions,Max
+DGS2_ma3,1.747528400007683e-06,Macro,,MA3
+DGS2_ma10,1.747528400007683e-06,Macro,,MA10
+DGS2_ma5,1.747528400007683e-06,Macro,,MA5
+sanctions_max_ma3,1.519911082952933e-06,Geopolitical,Sanctions,MA3
+fed_pressure_sum_ma3,1.3219411484660288e-06,Geopolitical,Fed Pressure,MA3
+VIXCLS,,Macro,,Other
+DGS2_lag1,,Macro,,Lag
+DGS2_lag2,,Macro,,Lag
+USEPUINDXD_lag1,,Macro,,Lag
+USEPUINDXD_lag3,,Macro,,Lag
+USEPUINDXD_ma3,,Macro,,MA3
+USEPUINDXD_ma5,,Macro,,MA5
+VIXCLS_ma3,,Macro,,MA3
+VIXCLS_ma5,,Macro,,MA5
+fed_pressure_sum,,Geopolitical,Fed Pressure,Sum
+trade_sum_ma3,,Geopolitical,Trade,MA3
+trade_mean_ma3,,Geopolitical,Trade,MA3
+trade_max_diff,,Geopolitical,Trade,Difference
+sanctions_sum_lag1,,Geopolitical,Sanctions,Lag
+sanctions_sum_ma3,,Geopolitical,Sanctions,MA3
+sanctions_mean_lag1,,Geopolitical,Sanctions,Lag
+sanctions_mean_ma3,,Geopolitical,Sanctions,MA3
+fed_pressure_mean_diff,,Geopolitical,Fed Pressure,Difference
+fed_pressure_max_lag2,,Geopolitical,Fed Pressure,Lag

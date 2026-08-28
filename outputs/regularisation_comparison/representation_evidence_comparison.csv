@@ -1,0 +1,4 @@
+Method,Evidence basis,DeepSeek result,Gemma result
+LASSO,Restricted 18-feature coefficient-path persistence,MA10 Sanctions and Fed Pressure among most persistent,MA10 Sanctions and Fed Pressure among most persistent
+Ridge,Full 124-feature mean absolute standardized coefficients,MA10,MA10
+Elastic Net,Full 124-feature coefficient-path survival,MA10,MA10
